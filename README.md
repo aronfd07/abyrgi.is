@@ -32,3 +32,6 @@
 
 Vef- og snjallforritið býður notendum, sem eru yfir 17 ára, upp á þjónustu þar sem hægt er að panta ökumann til að keyra bíl notandans frá einum stað til annars.  
 Markmið forritsins er að tryggja að einstaklingar geti komið bílnum sínum á áfangastað á öruggan hátt, jafnvel þó þeir sjálfir geti ekki eða vilji ekki keyra.
+
+
+![wireframe](./wireframe.jpg)
